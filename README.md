@@ -21,11 +21,11 @@ Esta é uma **aplicação web** desenvolvida utilizando **Java EE** e **JPA** qu
 
 1. Clone o repositório:
    ```bash
-   git clone https://github.com/seu-usuario/nome-do-repositorio.git
+   git clone https://github.com/seu-usuario/Loja-online.git
    ```
 2. Navegue até o diretório do projeto:
    ```bash
-   cd nome-do-repositorio
+   cd Loja-oline
    ```
 3. Configure o servidor de aplicação (ex: Apache Tomcat).
 4. Importe o projeto na sua IDE preferida (ex: Eclipse, IntelliJ).
@@ -35,13 +35,3 @@ Esta é uma **aplicação web** desenvolvida utilizando **Java EE** e **JPA** qu
 
 Contribuições são bem-vindas! Sinta-se à vontade para abrir um `issue` ou enviar um `pull request`.
 
-## Licença
-
-Este projeto está licenciado sob a [MIT License](LICENSE).
-
-## Contato
-
-Para mais informações, entre em contato:
-
-- Nome: Seu Nome
-- E-mail: seuemail@example.com
